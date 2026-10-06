@@ -1,3 +1,5 @@
+> **Archived.** This is the original Hermie agent experiment (2026-09). The privacy gate it was built around now lives on as [hermie](https://github.com/Code-byte404/hermie), a local privacy proxy for coding agents. This repository is not maintained.
+
 <p align="center">
   <img src="assets/logo.png" width="160" alt="Hermie, a hermit crab peeking out of its shell">
 </p>
